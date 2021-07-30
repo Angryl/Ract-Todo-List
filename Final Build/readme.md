@@ -14,4 +14,4 @@ You may serve it with a static server:
 
   https://cra.link/deployment
 
-for more @angryl
+for more [@angryl](https://github.com/Angryl)
